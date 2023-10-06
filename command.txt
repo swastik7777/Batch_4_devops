@@ -3,3 +3,7 @@ git add
 git status
 git commit -m "messgae"
 git rm --cached filename
+git restore 
+git config --global user.name 'swastik'
+git config --global email.name 'swastikgomase.sae.comp@gmail.com'
+
